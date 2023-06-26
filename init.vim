@@ -69,8 +69,6 @@ nnoremap <LEADER>rc :e $HOME/.config/nvim/init.vim<CR>
 " Insert Key
 noremap h i
 noremap H I
-noremap i <nop>
-noremap I <nop>
 "" Copy to system clipboard
 vnoremap Y "+y
 " Search
